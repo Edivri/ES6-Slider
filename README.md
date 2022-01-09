@@ -1,0 +1,2 @@
+# ES6-Slider
+ VANILLA SLIDER WITH ES6
